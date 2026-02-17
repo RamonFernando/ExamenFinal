@@ -1,0 +1,105 @@
+[
+  {
+    "name": {
+      "common": "Cuba",
+      "official": "Republic of Cuba"
+    },
+    "cca2": "CU",
+    "cca3": "CUB",
+    "capital": [
+      "Havana"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 9748007,
+    "area": 109884,
+    "currencies": {
+      "CUC": {
+        "name": "Cuban convertible peso",
+        "symbol": "$"
+      },
+      "CUP": {
+        "name": "Cuban peso",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": {
+      "common": "Spain",
+      "official": "Kingdom of Spain"
+    },
+    "cca2": "ES",
+    "cca3": "ESP",
+    "capital": [
+      "Madrid"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 49315949,
+    "area": 505992,
+    "currencies": {
+      "EUR": {
+        "name": "euro",
+        "symbol": "\u20AC"
+      }
+    },
+    "languages": {
+      "spa": "Spanish",
+      "cat": "Catalan",
+      "eus": "Basque",
+      "glc": "Galician"
+    }
+  },
+  {
+    "name": {
+      "common": "Russia",
+      "official": "Russian Federation"
+    },
+    "cca2": "RU",
+    "cca3": "RUS",
+    "capital": [
+      "Moscow"
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 146028325,
+    "area": 17098246,
+    "currencies": {
+      "RUB": {
+        "name": "Russian ruble",
+        "symbol": "\u20BD"
+      }
+    },
+    "languages": {
+      "rus": "Russian"
+    }
+  },
+  {
+    "name": {
+      "common": "Germany",
+      "official": "Federal Republic of Germany"
+    },
+    "cca2": "DE",
+    "cca3": "DEU",
+    "capital": [
+      "Berlin"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 83491249,
+    "area": 357114,
+    "currencies": {
+      "EUR": {
+        "name": "euro",
+        "symbol": "\u20AC"
+      }
+    },
+    "languages": {
+      "deu": "German"
+    }
+  }
+]

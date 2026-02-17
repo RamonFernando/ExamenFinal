@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "titulo": "hegqbq",
+        "descripcion": "jfglwf.b",
+        "fecha": "2026-12-12",
+        "completada": false
+    },
+    {
+        "id": 2,
+        "titulo": "qwerqjgol",
+        "descripcion": "jewhrwrjn",
+        "fecha": "2026-12-12",
+        "completada": true
+    },
+    {
+        "id": 3,
+        "titulo": "Tarea",
+        "descripcion": "descripcoion",
+        "fecha": "2026-02-11",
+        "completada": true
+    },
+    {
+        "id": 4,
+        "titulo": "Tarea Examen",
+        "descripcion": "Descripcion examen",
+        "fecha": "2025-12-12",
+        "completada": false
+    }
+]
